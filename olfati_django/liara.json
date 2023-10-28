@@ -1,0 +1,9 @@
+{
+  "app": "olfati",
+  "disks": [
+    {
+      "name": "olfati-disk",
+      "mountTo": "media"
+    }
+  ]
+}
